@@ -148,3 +148,8 @@ nav h1 span{
     cursor: pointer;
     background-color: var(--primaryLight);
 }
+
+.projects{
+    height: 100vh;
+    padding: 3rem;
+}
